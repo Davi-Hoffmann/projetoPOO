@@ -1,2 +1,2 @@
-# projetoPOO
-Projeto elaborado na materia Programação orientada a Objetos em JAVA
+# Projeto de Cadastro e Login com JAVA e MYSQL
+Projeto elaborado na materia Programação Orientada a Objetos.
